@@ -1,0 +1,11 @@
+.search-wrapper {
+    position: relative;
+}
+
+.search-wrapper .search-result-list {
+    position: absolute;
+    top: 60px;
+    height: 500px;
+    width: 100%;
+    background: #fff;
+}
